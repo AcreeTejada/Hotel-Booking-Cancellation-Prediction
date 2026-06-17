@@ -1,0 +1,710 @@
+id,hotel,lead_time,arrival_date_month,arrival_date_week_number,arrival_date_day_of_month,stays_in_weekend_nights,stays_in_week_nights,adults,children,babies,meal,market_segment,distribution_channel,is_repeated_guest,previous_cancellations,previous_bookings_not_canceled,reserved_room_type,assigned_room_type,booking_changes,deposit_type,days_in_waiting_list,customer_type,adr,required_car_parking_spaces,total_of_special_requests
+id7,Resort,2,July,29,17,0,2,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,112,NA,0
+id8,Resort,1,July,29,17,0,2,2,0,0,BB,Direct,Direct,0,0,0,D,E,0,No Deposit,0,Transient,144.5,0,0
+id10,Resort,53,July,29,17,2,3,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,107,NA,0
+id14,Resort,5,August,32,8,1,1,2,0,0,BB,Online TA,TA/TO,0,0,0,G,H,0,No Deposit,0,Transient,250,NA,1
+id17,Resort,16,August,34,21,2,3,2,0,0,BB,Direct,Direct,0,0,0,D,D,0,No Deposit,0,Transient,192,NA,0
+id19,Resort,83,August,36,30,2,4,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,112.33,NA,1
+id20,Resort,123,September,36,1,2,5,1,0,0,BB,Online TA,TA/TO,0,0,0,A,A,1,No Deposit,0,Transient,82.72,0,1
+id31,Resort,125,September,39,20,4,7,2,0,NA,HB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Contract,68.5,NA,0
+id51,Resort,24,November,45,2,1,4,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,46,0,1
+id52,Resort,36,November,45,7,2,6,1,0,0,BB,Corporate,Corporate,0,0,0,A,A,1,No Deposit,0,Transient-Party,36,0,0
+id57,Resort,62,December,53,27,2,0,2,0,NA,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,39.26,NA,1
+id58,Resort,53,December,53,28,1,3,2,0,0,BB,Online TA,TA/TO,0,0,0,E,E,0,No Deposit,0,Transient,81.9,NA,1
+id64,Resort,136,March,13,24,0,3,2,0,0,Undefined,Offline TA/TO,TA/TO,0,0,0,A,C,1,No Deposit,0,Transient-Party,42,NA,0
+id65,Resort,169,March,14,31,0,3,2,0,0,BB,Groups,Direct,0,0,0,A,A,1,Refundable,0,Transient-Party,72,NA,0
+id66,Resort,169,March,14,31,0,3,1,0,0,BB,Groups,Direct,0,0,0,A,A,2,Refundable,0,Transient-Party,60,NA,0
+id73,Resort,183,April,16,16,1,1,2,0,0,HB,Groups,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,85,NA,0
+id89,Resort,159,July,31,28,3,8,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,E,E,1,No Deposit,0,Transient,113.05,0,0
+id98,Resort,337,October,42,9,2,5,2,0,0,HB,Groups,Direct,0,0,0,D,E,0,No Deposit,101,Transient-Party,66.28,NA,0
+id99,Resort,339,October,42,11,2,5,1,0,0,BB,Groups,Direct,0,0,0,A,A,1,Refundable,150,Transient-Party,44.36,NA,0
+id100,Resort,339,October,42,11,2,5,2,0,0,BB,Groups,Direct,0,0,0,E,E,0,Refundable,150,Transient-Party,80.81,NA,0
+id105,Resort,0,October,44,24,1,1,1,0,NA,BB,Direct,Direct,0,0,1,A,A,0,No Deposit,0,Transient,61,1,1
+id108,Resort,0,January,1,7,1,1,2,0,0,BB,Direct,Direct,0,0,0,E,E,3,No Deposit,0,Transient,64,NA,0
+id134,Resort,1,November,46,9,0,1,1,0,0,BB,Complementary,Corporate,1,1,5,A,E,0,No Deposit,0,Transient,0,NA,3
+id136,Resort,139,July,28,5,2,1,2,0,0,BB,Online TA,TA/TO,0,0,0,A,C,0,No Deposit,0,Transient,122.7,1,1
+id138,Resort,129,July,28,10,2,4,2,0,0,FB,Offline TA/TO,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,157.5,NA,0
+id140,Resort,133,July,29,13,3,5,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,E,E,0,No Deposit,0,Contract,142.63,NA,1
+id150,Resort,158,August,32,4,0,1,2,0,0,BB,Direct,Direct,0,0,0,A,A,0,No Deposit,0,Transient,112,NA,0
+id153,Resort,96,August,32,3,2,5,2,0,0,HB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,186,NA,0
+id155,Resort,109,August,32,2,4,7,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,134,NA,2
+id160,Resort,70,August,34,17,1,3,2,0,NA,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,87.91,NA,1
+id170,Resort,186,August,34,21,3,7,2,1,0,BB,Direct,Direct,0,0,0,E,E,0,No Deposit,0,Transient,178,NA,1
+id171,Resort,25,August,35,28,2,2,2,NA,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,116,NA,0
+id172,Resort,1,August,35,29,2,2,2,0,0,BB,Direct,Direct,0,0,0,C,C,0,No Deposit,0,Transient,143.25,NA,0
+id173,Resort,34,August,36,31,1,3,2,0,0,BB,Online TA,TA/TO,0,0,0,E,F,0,No Deposit,0,Transient,124.25,NA,1
+id178,Resort,136,August,35,29,3,6,2,0,NA,BB,Direct,Direct,0,0,0,G,G,1,No Deposit,0,Transient,171.06,NA,2
+id179,Resort,202,September,36,1,2,5,2,0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Contract,77.78,NA,1
+id183,Resort,15,September,36,4,2,4,2,1,0,BB,Direct,Direct,0,0,0,A,E,2,No Deposit,0,Transient,85,NA,2
+id187,Resort,222,September,38,14,1,1,2,0,NA,HB,Groups,TA/TO,0,0,0,A,F,0,No Deposit,0,Transient-Party,80,NA,0
+id191,Resort,39,September,39,20,2,0,2,NA,0,BB,Online TA,TA/TO,0,0,0,C,H,0,No Deposit,0,Transient,87.78,NA,1
+id192,Resort,0,September,39,21,1,2,2,0,0,BB,Direct,Direct,0,0,0,A,F,3,No Deposit,0,Transient,129,NA,0
+id195,Resort,0,October,40,2,0,1,2,0,0,BB,Direct,Direct,0,0,0,G,G,0,No Deposit,0,Transient,120,NA,0
+id204,Resort,6,November,48,23,0,2,1,0,0,BB,Corporate,Corporate,1,0,8,A,D,0,No Deposit,0,Transient,30,NA,0
+id205,Resort,292,October,43,21,0,2,2,0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,D,1,No Deposit,0,Transient-Party,70,NA,0
+id227,Resort,53,November,47,20,0,2,2,0,0,BB,Online TA,TA/TO,0,0,0,A,D,0,No Deposit,0,Transient,36.45,NA,1
+id229,Resort,3,November,47,19,1,3,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,D,0,No Deposit,0,Transient,32,NA,0
+id231,Resort,1,December,51,17,0,1,2,0,0,HB,Direct,Direct,1,0,3,E,E,1,No Deposit,0,Transient,101,NA,1
+id238,Resort,5,November,49,30,1,3,1,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,25,NA,0
+id241,Resort,7,December,49,3,0,3,2,0,NA,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,49.07,NA,1
+id243,Resort,10,December,50,7,1,0,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,54.4,0,2
+id248,Resort,0,February,9,22,1,0,1,0,0,HB,Offline TA/TO,TA/TO,1,0,1,A,D,1,No Deposit,0,Group,61,NA,0
+id257,Resort,1,December,52,24,0,1,1,0,0,BB,Direct,Direct,0,0,0,A,A,0,No Deposit,0,Transient,43,NA,0
+id264,Resort,25,December,52,23,2,5,1,1,0,BB,Online TA,TA/TO,0,0,0,A,A,1,No Deposit,0,Transient,42.35,0,1
+id265,Resort,0,December,53,29,0,1,2,0,0,BB,Direct,Direct,0,0,0,E,E,0,No Deposit,0,Transient,65,NA,0
+id271,Resort,23,January,1,2,2,1,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,50.33,0,1
+id275,Resort,5,January,2,4,1,3,2,0,0,HB,Groups,Corporate,0,0,0,A,A,0,No Deposit,0,Transient-Party,68,NA,0
+id276,Resort,0,January,3,10,1,0,1,0,0,BB,Direct,Direct,0,0,0,A,A,0,No Deposit,0,Transient,44,NA,0
+id286,Resort,0,March,12,14,1,3,1,0,0,BB,Corporate,Corporate,1,0,2,A,A,0,No Deposit,0,Transient,30,NA,0
+id295,Resort,0,January,5,25,1,1,1,0,0,BB,Direct,Direct,0,0,0,A,A,1,No Deposit,0,Transient,39,0,0
+id302,Resort,1,February,6,4,0,1,1,0,0,HB,Corporate,Corporate,0,0,0,A,A,0,No Deposit,0,Transient,46,NA,0
+id305,Resort,10,February,6,4,1,3,1,0,0,BB,Online TA,TA/TO,0,0,0,A,D,0,No Deposit,0,Transient,50,NA,1
+id307,Resort,6,February,7,7,2,0,3,2,0,BB,Online TA,TA/TO,0,0,0,H,H,0,No Deposit,0,Transient,123,NA,1
+id316,Resort,0,March,13,23,0,1,1,0,0,BB,Direct,Direct,1,0,1,A,A,0,No Deposit,0,Transient,45,NA,0
+id320,Resort,4,February,9,24,0,4,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,28.1,NA,0
+id328,Resort,100,February,9,26,2,5,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,D,0,No Deposit,0,Transient,26,NA,0
+id332,Resort,4,March,10,5,0,1,2,0,0,BB,Direct,Direct,0,0,0,A,D,2,No Deposit,0,Transient,50,NA,0
+id339,Resort,1,March,12,13,2,0,1,0,0,BB,Online TA,TA/TO,0,0,0,A,D,0,No Deposit,0,Transient,43,0,1
+id346,Resort,2,November,48,24,0,1,1,0,0,BB,Corporate,Corporate,1,0,3,A,D,0,No Deposit,0,Transient,48,0,0
+id360,Resort,4,March,14,28,1,2,2,NA,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,54,1,1
+id368,Resort,30,April,17,17,4,5,2,0,0,HB,Groups,Direct,0,0,1,D,D,1,Non Refund,0,Transient-Party,70.05,NA,0
+id372,Resort,66,April,15,9,2,6,2,0,NA,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,73,0,1
+id374,Resort,32,April,17,19,0,1,2,0,NA,BB,Corporate,Corporate,0,0,0,A,G,0,No Deposit,0,Transient-Party,59,NA,1
+id376,Resort,18,April,15,9,4,9,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,52.2,0,0
+id382,Resort,82,April,18,28,2,4,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,43.97,NA,1
+id383,Resort,5,April,18,27,0,1,1,0,0,BB,Online TA,TA/TO,0,0,0,A,D,0,No Deposit,0,Transient,56,1,0
+id388,Resort,197,April,18,30,1,1,1,0,0,HB,Groups,TA/TO,0,0,0,A,A,1,No Deposit,0,Transient-Party,54.5,0,0
+id389,Resort,0,May,19,3,0,1,2,0,NA,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient-Party,75.2,NA,0
+id392,Resort,30,May,20,8,2,1,2,0,0,BB,Online TA,TA/TO,0,0,0,A,E,0,No Deposit,0,Transient,93,NA,0
+id395,Resort,7,May,20,11,0,1,2,0,0,BB,Direct,Direct,0,0,0,A,C,1,No Deposit,0,Transient-Party,70,NA,1
+id402,Resort,23,May,21,19,0,3,3,NA,0,BB,Direct,Direct,0,0,0,H,H,0,No Deposit,0,Transient,150,0,1
+id411,Resort,94,May,21,21,2,5,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,73,0,1
+id415,Resort,5,May,22,28,1,1,2,2,0,BB,Online TA,TA/TO,0,0,0,G,G,0,No Deposit,0,Transient,145,NA,0
+id417,Resort,1,May,23,31,0,1,2,0,0,BB,Online TA,TA/TO,0,0,0,A,C,0,No Deposit,0,Transient,79,NA,0
+id420,Resort,1,June,23,2,0,1,2,0,0,BB,Direct,Direct,0,0,0,A,B,2,No Deposit,0,Transient,109,NA,0
+id437,Resort,35,June,27,26,1,0,2,0,NA,HB,Direct,Direct,0,0,0,A,A,1,No Deposit,0,Transient,159,NA,0
+id446,Resort,206,June,26,25,3,6,2,0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,A,1,No Deposit,0,Transient-Party,88.2,0,1
+id452,Resort,10,July,28,5,0,3,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,159,0,1
+id453,Resort,167,July,28,3,4,7,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Contract,59.8,0,0
+id454,Resort,5,October,43,18,0,1,1,0,0,BB,Corporate,Corporate,1,0,1,A,A,0,No Deposit,0,Transient,42,NA,1
+id462,Resort,126,July,28,8,3,7,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,149.2,NA,1
+id467,Resort,0,December,51,16,0,1,2,0,0,BB,Direct,Direct,1,0,1,E,E,0,No Deposit,0,Transient,50,NA,2
+id474,Resort,61,July,31,26,0,2,2,0,0,BB,Online TA,TA/TO,0,0,0,F,F,0,No Deposit,0,Transient,157.85,NA,1
+id478,Resort,149,July,30,23,2,5,1,1,0,FB,Offline TA/TO,TA/TO,0,0,0,D,D,4,No Deposit,0,Transient,160.68,NA,1
+id482,Resort,183,July,30,19,4,10,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,102.66,NA,0
+id485,Resort,171,July,32,31,2,2,2,0,NA,BB,Offline TA/TO,TA/TO,0,0,0,A,A,1,No Deposit,0,Transient,111.8,0,0
+id489,Resort,152,August,32,2,0,5,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,162,NA,2
+id492,Resort,3,August,33,7,1,0,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,165,NA,1
+id493,Resort,200,August,32,2,2,5,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,E,E,0,No Deposit,0,Transient,128,0,0
+id495,Resort,161,August,32,3,2,5,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,125.5,NA,2
+id496,Resort,195,August,32,4,2,5,2,0,1,HB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Contract,116.1,NA,1
+id497,Resort,0,August,33,11,0,1,2,0,0,BB,Direct,Direct,0,0,0,E,E,0,No Deposit,0,Transient,229,NA,0
+id502,Resort,32,August,33,12,0,2,1,0,0,BB,Online TA,TA/TO,0,0,0,E,E,0,No Deposit,0,Transient,254,NA,1
+id504,Resort,45,August,34,14,2,0,2,0,0,HB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,243,NA,1
+id505,Resort,49,August,34,14,2,2,2,1,0,HB,Online TA,TA/TO,0,0,0,C,C,0,No Deposit,0,Transient,301.2,NA,1
+id508,Resort,7,August,34,19,0,1,2,0,NA,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,140,NA,0
+id535,Resort,10,September,39,20,0,3,2,0,1,FB,Direct,Direct,0,0,0,D,H,1,No Deposit,0,Transient,173.6,NA,2
+id543,Resort,0,November,45,3,0,1,1,0,0,BB,Offline TA/TO,Corporate,1,0,1,A,E,0,No Deposit,0,Transient,42,0,0
+id550,Resort,383,October,41,6,0,3,2,0,NA,BB,Groups,TA/TO,0,0,0,A,C,0,No Deposit,0,Transient-Party,54,NA,0
+id551,Resort,167,October,41,3,2,5,2,0,0,HB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,101.43,NA,1
+id559,Resort,364,October,42,12,1,4,2,0,0,BB,Groups,Corporate,0,0,0,A,A,1,No Deposit,0,Transient-Party,68,NA,0
+id564,Resort,386,October,43,20,0,3,2,NA,0,BB,Groups,Corporate,0,0,0,A,D,1,No Deposit,0,Transient-Party,49,NA,0
+id574,Resort,16,October,44,27,0,3,2,0,NA,BB,Corporate,Corporate,0,0,0,A,A,2,No Deposit,0,Transient-Party,63,NA,0
+id583,Resort,45,November,45,5,2,1,2,1,0,BB,Offline TA/TO,TA/TO,0,0,0,A,D,1,No Deposit,0,Transient,36.5,NA,0
+id584,Resort,0,November,47,14,1,0,1,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,60,NA,1
+id595,Resort,5,November,48,22,0,3,2,0,NA,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,48,NA,0
+id598,Resort,8,November,48,26,0,1,2,0,0,BB,Online TA,TA/TO,0,0,0,E,E,0,No Deposit,0,Transient-Party,63,NA,1
+id600,Resort,0,December,49,1,0,2,2,0,0,HB,Direct,Direct,0,0,0,F,F,1,No Deposit,0,Transient,99,NA,1
+id614,Resort,186,December,50,10,2,3,2,0,NA,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,36.24,1,0
+id616,Resort,0,December,51,15,0,1,2,0,0,BB,Direct,Direct,0,0,0,A,A,1,No Deposit,0,Transient,44,NA,0
+id622,Resort,2,December,53,27,0,1,2,1,0,BB,Online TA,TA/TO,0,0,0,H,H,0,No Deposit,0,Transient-Party,110,NA,2
+id631,Resort,0,January,1,5,0,1,1,0,0,BB,Direct,Direct,0,0,0,A,A,0,No Deposit,0,Transient,39,NA,0
+id647,Resort,49,January,3,19,2,4,2,0,0,HB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,51.9,NA,1
+id649,Resort,0,January,4,27,1,2,2,0,0,BB,Direct,TA/TO,1,0,0,E,E,0,No Deposit,0,Transient,70,0,2
+id659,Resort,44,February,6,9,2,5,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Contract,36.12,NA,0
+id677,Resort,0,February,8,22,0,1,2,0,0,BB,Direct,Direct,0,0,0,E,E,0,No Deposit,0,Transient,80,NA,0
+id688,Resort,0,February,9,28,0,2,1,0,NA,BB,Direct,Direct,0,0,0,A,A,1,No Deposit,0,Transient-Party,38,NA,0
+id690,Resort,7,March,9,2,1,3,2,NA,0,BB,Groups,Corporate,0,0,0,A,A,0,No Deposit,0,Transient-Party,37,1,0
+id703,Resort,0,April,16,18,0,1,1,0,0,BB,Direct,Corporate,1,0,1,A,D,0,No Deposit,0,Transient,74,NA,1
+id707,Resort,4,April,17,26,0,2,1,0,0,BB,Corporate,Corporate,1,0,1,A,A,0,No Deposit,0,Transient,45,NA,0
+id710,Resort,39,March,13,30,0,1,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,54.4,NA,2
+id713,Resort,250,March,13,27,2,5,2,0,0,BB,Online TA,TA/TO,0,0,0,A,D,1,No Deposit,0,Transient,52.43,0,1
+id714,Resort,42,March,13,28,2,5,2,0,0,BB,Direct,Direct,0,0,0,A,A,0,No Deposit,0,Transient,59.29,NA,2
+id720,Resort,63,April,14,6,0,3,2,0,0,BB,Online TA,TA/TO,0,0,0,E,E,0,No Deposit,0,Transient,73.15,NA,1
+id722,Resort,14,April,15,11,0,1,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient-Party,100,NA,1
+id723,Resort,7,April,15,11,0,1,2,0,0,BB,Online TA,TA/TO,0,0,0,D,E,0,No Deposit,0,Transient-Party,105,NA,1
+id729,Resort,156,April,15,14,0,2,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,60,NA,2
+id730,Resort,267,April,14,8,3,6,2,0,0,BB,Direct,Direct,0,0,0,A,A,0,No Deposit,0,Transient-Party,54.68,NA,0
+id731,Resort,3,April,15,15,1,1,2,0,0,SC,Offline TA/TO,TA/TO,0,0,0,A,I,1,No Deposit,0,Transient,0,1,0
+id732,Resort,73,April,15,15,2,1,1,1,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,64.17,NA,0
+id738,Resort,203,April,17,25,0,2,2,NA,0,HB,Groups,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,90,0,0
+id747,Resort,53,April,17,27,2,3,2,0,0,BB,Online TA,TA/TO,0,0,0,E,E,0,No Deposit,0,Transient,117,NA,1
+id748,Resort,0,May,18,3,0,1,2,0,0,BB,Direct,Direct,0,0,0,B,B,0,No Deposit,0,Transient,70,NA,0
+id749,Resort,77,April,17,28,2,5,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,D,D,0,No Deposit,0,Contract,52.85,NA,0
+id752,Resort,2,May,19,7,2,0,2,0,0,BB,Online TA,TA/TO,0,0,0,A,B,0,No Deposit,0,Transient,79.5,NA,1
+id755,Resort,257,May,19,9,0,4,2,0,NA,HB,Groups,Direct,0,0,0,E,E,0,No Deposit,0,Transient-Party,101,NA,0
+id759,Resort,13,May,19,11,2,4,2,0,0,BB,Online TA,TA/TO,0,0,0,D,E,0,No Deposit,0,Transient,105.83,NA,2
+id764,Resort,83,May,20,17,1,4,1,NA,0,HB,Offline TA/TO,TA/TO,0,0,0,D,D,1,No Deposit,0,Transient,74,NA,1
+id767,Resort,213,May,21,23,0,0,2,0,0,BB,Online TA,TA/TO,0,0,0,D,I,0,No Deposit,0,Transient,0,NA,1
+id772,Resort,2,May,21,24,0,1,2,0,0,BB,Online TA,TA/TO,0,0,0,A,H,0,No Deposit,0,Transient,72,0,2
+id778,Resort,3,May,22,31,0,1,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,88,NA,1
+id785,Resort,4,June,23,4,2,2,2,0,0,BB,Online TA,TA/TO,0,0,0,A,D,0,No Deposit,0,Transient,95,NA,0
+id786,Resort,127,May,22,29,3,7,2,0,0,BB,Online TA,TA/TO,0,0,0,E,E,0,No Deposit,0,Transient,97.2,NA,0
+id789,Resort,6,June,24,14,0,1,1,0,0,BB,Corporate,Corporate,0,0,0,A,A,2,No Deposit,0,Transient,114.75,NA,0
+id791,Resort,106,June,24,12,1,3,2,0,1,BB,Online TA,TA/TO,0,0,0,E,E,3,No Deposit,0,Transient,166,1,1
+id794,Resort,36,June,24,17,0,1,2,0,0,BB,Direct,Direct,0,0,0,A,C,0,No Deposit,0,Transient,140,NA,2
+id810,Resort,13,June,26,30,1,2,2,0,0,BB,Direct,Direct,0,0,0,A,A,0,No Deposit,0,Transient,163.67,NA,0
+id814,Resort,122,June,26,30,2,4,2,1,0,BB,Online TA,TA/TO,0,0,0,D,D,3,No Deposit,0,Transient,176.67,NA,1
+id827,Resort,98,July,28,11,0,3,2,2,NA,BB,Online TA,TA/TO,0,0,0,C,C,0,No Deposit,0,Transient,199,NA,1
+id835,Resort,210,July,30,24,1,2,2,0,NA,HB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,183.75,NA,1
+id836,Resort,188,July,30,23,2,5,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,155.75,0,1
+id837,Resort,19,July,30,29,0,1,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,184.5,NA,3
+id838,Resort,199,July,30,25,2,5,2,1,NA,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,127.28,NA,1
+id845,Resort,174,August,32,7,3,7,2,0,NA,HB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,232,0,2
+id847,Resort,242,August,32,12,2,6,3,0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,A,2,No Deposit,0,Transient,187.24,0,1
+id848,Resort,194,August,33,14,2,5,2,0,0,HB,Online TA,TA/TO,0,0,0,D,D,3,No Deposit,0,Transient,158.66,NA,2
+id851,Resort,55,August,34,22,0,3,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,264,NA,2
+id852,Resort,0,August,34,26,0,1,2,0,0,BB,Online TA,TA/TO,0,0,0,E,E,0,No Deposit,0,Transient,230,NA,1
+id868,City,132,July,30,23,0,1,2,0,0,HB,Groups,TA/TO,0,0,0,A,B,0,No Deposit,0,Transient-Party,90,NA,0
+id869,City,15,July,30,25,0,1,1,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,0,NA,0
+id870,City,15,July,30,25,0,1,1,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,0,0,0
+id878,City,7,August,32,5,0,3,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,1,No Deposit,0,Transient-Party,66,NA,1
+id889,City,119,August,33,13,0,3,2,0,NA,BB,Online TA,TA/TO,0,0,0,A,D,0,No Deposit,0,Transient-Party,85.5,NA,1
+id906,City,145,August,35,29,2,1,2,0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,94.5,0,0
+id911,City,3,August,36,31,1,2,2,0,0,BB,Direct,Direct,0,0,0,A,A,0,No Deposit,0,Transient,105.33,1,1
+id913,City,16,September,36,2,0,4,2,0,0,BB,Direct,Direct,0,0,0,A,A,0,No Deposit,0,Transient,105,NA,0
+id926,City,8,September,37,8,0,2,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,1,No Deposit,0,Transient,80.85,NA,2
+id933,City,13,September,37,11,0,1,1,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,95,0,1
+id935,City,135,September,38,14,1,2,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,90,NA,0
+id937,City,14,September,38,15,0,1,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,1,No Deposit,0,Contract,96,NA,1
+id938,City,14,September,38,15,0,3,1,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Contract,114,NA,1
+id941,City,76,September,38,16,0,2,2,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,62,0,0
+id942,City,76,September,38,16,0,2,1,0,0,BB,Groups,TA/TO,0,0,0,A,B,0,No Deposit,0,Transient-Party,0,NA,0
+id943,City,17,September,38,17,0,2,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,1,No Deposit,0,Transient,124,NA,2
+id948,City,74,September,38,18,0,2,2,0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,D,0,No Deposit,0,Transient-Party,109,0,0
+id951,City,22,September,38,19,1,1,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Contract,124,NA,0
+id955,City,141,September,39,20,1,0,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,90,NA,0
+id957,City,34,September,39,23,0,3,2,0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,33,Transient-Party,224.67,NA,0
+id963,City,164,October,40,2,0,2,1,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,100,NA,0
+id973,City,47,October,43,19,1,3,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,B,B,0,No Deposit,0,Transient,72.36,NA,1
+id978,City,58,October,44,30,0,1,1,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Contract,85.5,NA,2
+id983,City,3,December,49,5,2,1,2,1,0,BB,Online TA,TA/TO,0,0,0,A,B,1,No Deposit,0,Transient-Party,104,NA,1
+id985,City,5,December,50,8,0,1,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,84,NA,1
+id990,City,2,December,52,24,0,1,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,1,No Deposit,0,Transient,67.5,NA,1
+id991,City,5,December,52,24,0,2,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,72.75,NA,1
+id992,City,119,December,52,26,2,1,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,72.25,NA,3
+id993,City,37,December,52,26,2,2,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,1,No Deposit,0,Transient,87.3,NA,0
+id997,City,6,December,53,31,0,2,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,137,NA,1
+id1001,City,1,January,2,4,1,1,2,0,0,BB,Online TA,TA/TO,0,0,0,B,B,0,No Deposit,0,Transient-Party,74.25,0,1
+id1002,City,1,January,2,5,4,13,2,0,NA,BB,Direct,Direct,0,0,0,A,A,6,No Deposit,0,Transient,70.67,NA,0
+id1011,City,47,February,8,18,0,3,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,90.3,NA,0
+id1014,City,55,March,10,1,0,2,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,84.8,0,1
+id1018,City,91,April,15,3,2,3,2,0,0,HB,Direct,Direct,0,0,0,B,B,2,No Deposit,0,Transient,95.94,0,0
+id1020,City,122,April,17,18,1,3,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,64.8,NA,1
+id1027,City,309,May,20,13,1,2,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,215,Transient-Party,65,NA,0
+id1029,City,297,May,20,14,1,1,2,0,0,BB,Groups,TA/TO,0,0,0,A,A,1,No Deposit,236,Transient-Party,32.5,NA,0
+id1033,City,316,May,22,26,0,3,2,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,110,NA,0
+id1037,City,256,August,35,21,3,5,0,0,0,BB,Online TA,TA/TO,0,0,0,A,K,1,No Deposit,0,Transient,57.3,NA,0
+id1044,City,241,October,43,19,1,2,1,0,0,BB,Groups,TA/TO,0,0,0,A,A,1,No Deposit,0,Transient-Party,50,NA,0
+id1046,City,260,July,27,4,2,2,3,0,0,BB,Groups,TA/TO,0,0,0,A,A,1,No Deposit,0,Transient-Party,84,NA,0
+id1053,City,1,August,32,4,0,2,1,0,0,BB,Corporate,Direct,0,0,0,A,A,1,No Deposit,0,Transient,65,NA,0
+id1054,City,0,August,32,6,1,3,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,81,0,0
+id1062,City,19,October,41,6,0,3,2,0,0,BB,Offline TA/TO,TA/TO,1,0,0,A,A,0,No Deposit,0,Transient-Party,90,NA,0
+id1068,City,0,September,39,22,0,1,2,0,NA,SC,Online TA,TA/TO,0,0,0,A,F,0,No Deposit,0,Contract,152,0,2
+id1069,City,11,September,39,22,0,2,2,0,NA,BB,Groups,TA/TO,0,0,0,A,D,0,No Deposit,0,Transient-Party,98,NA,0
+id1070,City,2,September,39,23,0,2,1,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,72.2,NA,0
+id1072,City,19,September,40,28,1,1,1,0,0,BB,Groups,TA/TO,0,0,0,A,D,1,No Deposit,0,Transient-Party,170,NA,0
+id1078,City,4,October,41,4,1,0,1,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,D,0,No Deposit,0,Transient,0,NA,0
+id1080,City,224,October,40,2,1,2,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,65,NA,0
+id1087,City,1,October,42,13,0,1,1,0,0,BB,Complementary,Direct,0,0,0,A,A,0,No Deposit,0,Transient,0,0,1
+id1090,City,19,October,42,13,0,4,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Contract,126,NA,1
+id1093,City,16,October,42,15,1,3,2,0,0,HB,Groups,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,90,NA,0
+id1103,City,0,October,44,30,1,2,2,0,0,BB,Online TA,TA/TO,0,0,0,D,E,0,No Deposit,0,Transient,126,NA,1
+id1108,City,21,November,45,5,0,2,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,76,NA,0
+id1115,City,4,December,51,11,2,0,2,0,0,BB,Corporate,Corporate,1,0,2,A,A,0,No Deposit,0,Transient,75,NA,0
+id1117,City,32,November,47,20,0,2,1,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,2,No Deposit,0,Transient-Party,73,NA,0
+id1119,City,0,January,4,21,0,1,1,0,0,BB,Corporate,Corporate,1,0,2,A,D,0,No Deposit,0,Transient,76,NA,0
+id1120,City,73,November,48,24,0,3,1,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,D,1,No Deposit,27,Transient-Party,67.83,NA,0
+id1122,City,39,November,48,27,0,2,1,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Contract,90.9,NA,2
+id1126,City,2,December,49,3,0,1,1,0,0,BB,Direct,Direct,0,0,0,E,E,0,No Deposit,0,Transient,115,NA,0
+id1127,City,59,November,48,28,2,4,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Contract,106.2,NA,1
+id1135,City,0,January,4,26,0,1,1,0,NA,BB,Complementary,Direct,1,0,9,A,A,0,No Deposit,0,Transient,0,NA,0
+id1145,City,10,December,53,27,2,1,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,G,G,0,No Deposit,0,Transient,52,NA,0
+id1150,City,44,January,1,2,2,1,2,0,0,HB,Groups,TA/TO,0,0,0,A,D,0,No Deposit,0,Transient-Party,98,NA,0
+id1152,City,2,January,3,16,0,1,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,78.5,NA,1
+id1172,City,2,February,7,13,0,1,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,60.83,NA,1
+id1178,City,13,February,7,9,2,6,2,2,NA,BB,Online TA,TA/TO,0,0,0,F,F,0,No Deposit,0,Transient,173,0,0
+id1181,City,39,February,8,15,1,4,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,98.1,NA,1
+id1199,City,4,February,10,28,1,0,2,0,0,BB,Direct,Direct,0,0,0,D,D,0,No Deposit,0,Transient,102,NA,0
+id1202,City,116,February,10,28,2,1,1,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,B,0,No Deposit,0,Transient-Party,76,NA,0
+id1205,City,56,March,10,3,0,2,3,0,NA,BB,Groups,Corporate,0,0,0,A,D,1,No Deposit,0,Transient-Party,103,NA,0
+id1207,City,35,March,10,4,0,2,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,73.1,NA,1
+id1209,City,30,March,10,5,2,3,2,0,NA,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,85.7,0,0
+id1223,City,51,March,12,16,0,4,3,0,0,BB,Online TA,TA/TO,0,0,0,A,D,0,No Deposit,0,Transient,92.82,NA,1
+id1236,City,36,March,14,29,0,2,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,B,0,No Deposit,0,Transient-Party,67.32,NA,1
+id1241,City,94,March,14,28,1,5,2,0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,110.75,0,1
+id1242,City,10,April,15,3,2,0,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,89,NA,1
+id1250,City,134,April,15,9,1,1,2,0,0,HB,Groups,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,90,0,1
+id1261,City,23,April,16,10,2,3,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,125.2,0,1
+id1267,City,0,April,16,14,0,2,2,0,0,BB,Direct,Direct,0,0,0,A,A,0,No Deposit,0,Transient,98,NA,0
+id1285,City,32,April,18,27,0,1,2,1,0,HB,Online TA,TA/TO,0,0,0,A,B,0,No Deposit,0,Transient,165.15,NA,0
+id1289,City,3,April,18,28,0,1,1,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,119,NA,1
+id1291,City,26,April,18,28,0,3,2,0,0,BB,Direct,Direct,0,0,0,A,A,0,No Deposit,0,Transient,110,NA,0
+id1292,City,71,April,18,25,1,5,3,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,131.18,NA,0
+id1296,City,161,April,18,29,2,2,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Contract,95.2,0,1
+id1297,City,0,May,19,1,2,0,2,1,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,132.44,0,0
+id1299,City,1,May,19,3,0,1,2,0,0,SC,Direct,Direct,0,0,0,A,A,0,No Deposit,0,Transient,129,NA,0
+id1302,City,1,June,26,27,0,1,1,NA,0,BB,Corporate,Corporate,1,0,2,A,A,0,No Deposit,0,Transient,65,NA,1
+id1307,City,100,May,19,2,1,3,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,1,No Deposit,0,Transient,91.38,NA,1
+id1313,City,0,May,20,11,0,2,1,0,NA,BB,Direct,TA/TO,1,0,1,A,A,1,No Deposit,0,Transient,131,NA,0
+id1314,City,0,May,20,9,1,0,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,89,0,0
+id1321,City,81,May,20,12,0,3,2,1,NA,BB,Online TA,TA/TO,0,0,0,A,B,0,No Deposit,0,Transient,143.1,NA,2
+id1324,City,35,May,21,16,1,0,1,0,0,BB,Corporate,Corporate,0,0,0,A,A,0,No Deposit,0,Transient,89,NA,0
+id1329,City,31,May,21,15,2,4,1,0,0,BB,Corporate,Corporate,0,0,0,A,A,1,No Deposit,0,Transient,95,NA,1
+id1331,City,189,May,21,19,0,3,2,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,65,NA,0
+id1335,City,46,May,22,22,1,0,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,116.1,NA,0
+id1343,City,132,May,22,27,0,2,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,144.9,NA,1
+id1346,City,95,May,23,29,2,0,1,0,0,BB,Groups,TA/TO,0,0,0,A,A,1,No Deposit,0,Transient-Party,57.5,NA,0
+id1352,City,70,June,23,3,0,2,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,100,NA,0
+id1353,City,9,June,23,3,0,2,1,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,1,No Deposit,0,Transient-Party,0,NA,0
+id1356,City,141,June,24,5,2,0,1,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,111.15,NA,1
+id1360,City,247,June,24,6,1,1,2,0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,D,0,No Deposit,0,Transient-Party,115,0,1
+id1369,City,137,June,24,10,1,2,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,B,B,0,No Deposit,0,Transient-Party,80.75,NA,0
+id1372,City,3,June,25,12,1,0,2,0,0,BB,Direct,Direct,0,0,0,A,A,0,No Deposit,0,Transient,100,NA,0
+id1386,City,144,June,25,15,0,2,2,0,0,BB,Online TA,TA/TO,0,0,0,D,E,0,No Deposit,0,Transient,140.4,NA,2
+id1388,City,114,June,25,15,0,4,3,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,150.45,NA,0
+id1395,City,111,June,25,17,2,2,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,129.65,NA,1
+id1397,City,1,June,26,20,1,0,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,141,NA,0
+id1401,City,52,June,26,20,1,2,2,0,0,BB,Direct,Direct,0,0,0,A,A,0,No Deposit,0,Transient,89.1,0,0
+id1410,City,133,June,26,21,0,5,2,NA,0,BB,Offline TA/TO,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient-Party,90.95,NA,0
+id1411,City,192,June,26,24,0,2,1,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,95,0,0
+id1412,City,192,June,26,24,0,2,1,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,D,0,No Deposit,0,Transient-Party,95,NA,0
+id1413,City,192,June,26,24,0,2,1,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,1,No Deposit,0,Transient-Party,95,NA,0
+id1416,City,55,June,27,26,2,1,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,95.1,NA,1
+id1427,City,20,July,28,5,0,1,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,160,NA,1
+id1430,City,85,July,28,5,0,3,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,86.36,0,0
+id1431,City,146,July,28,8,0,1,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient-Party,127.8,NA,2
+id1434,City,0,July,28,6,0,4,1,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,147.5,NA,1
+id1436,City,8,July,28,7,0,3,1,0,NA,BB,Direct,Direct,0,0,0,E,E,0,No Deposit,0,Transient,182.33,NA,0
+id1455,City,156,July,29,16,2,2,1,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,68,NA,1
+id1456,City,161,July,29,16,2,2,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,87.13,0,1
+id1466,City,59,July,30,23,1,1,1,0,NA,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,99.9,NA,1
+id1469,City,39,July,31,25,1,0,1,0,0,BB,Corporate,Corporate,0,0,0,A,A,0,No Deposit,0,Transient,67,1,0
+id1470,City,126,July,31,25,1,2,2,0,NA,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,77.03,0,1
+id1472,City,133,July,31,26,0,3,3,1,0,BB,Direct,Direct,0,0,0,F,F,0,No Deposit,0,Transient,180.9,NA,1
+id1475,City,102,July,31,25,1,4,3,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,D,0,No Deposit,0,Transient,105.9,NA,0
+id1479,City,167,July,31,30,0,1,2,0,0,BB,Online TA,TA/TO,0,0,0,A,D,0,No Deposit,0,Transient,105.3,NA,2
+id1483,City,144,July,31,30,1,1,3,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient-Party,155.7,NA,1
+id1486,City,12,September,39,19,1,0,1,0,0,BB,Corporate,Corporate,1,0,2,A,F,0,No Deposit,0,Transient,65,NA,1
+id1490,City,108,July,31,30,2,3,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,81.25,NA,0
+id1504,City,3,August,33,7,1,0,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,128,NA,2
+id1509,City,1,August,32,3,2,5,0,0,0,SC,Online TA,TA/TO,0,0,0,A,K,4,No Deposit,0,Transient,0,NA,0
+id1514,City,22,August,33,12,0,1,2,0,0,BB,Corporate,Direct,0,0,0,A,A,0,No Deposit,0,Transient,84,NA,0
+id1519,City,34,August,33,13,2,1,2,1,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,152.1,0,0
+id1521,City,119,August,33,13,2,2,2,0,NA,BB,Online TA,TA/TO,0,0,0,A,B,1,No Deposit,0,Transient,114.3,NA,1
+id1522,City,18,August,34,14,2,1,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,132.8,NA,0
+id1524,City,200,August,32,4,4,10,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,66.53,NA,2
+id1527,City,320,August,34,18,0,2,2,0,NA,HB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,115,NA,1
+id1528,City,320,August,34,18,0,2,2,0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,115,NA,1
+id1549,City,142,August,35,22,2,5,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,68.8,NA,1
+id1554,City,4,December,52,20,0,3,1,0,0,BB,Corporate,Corporate,1,0,1,A,A,1,No Deposit,0,Transient,67,NA,1
+id1558,City,28,August,36,29,1,3,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,118.15,NA,0
+id1563,City,8,September,36,2,0,1,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,119,0,1
+id1565,City,24,September,36,1,0,3,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,122,NA,0
+id1567,City,23,August,36,31,0,4,2,0,0,SC,Online TA,TA/TO,0,0,0,A,D,0,No Deposit,0,Transient,110,NA,2
+id1571,City,53,September,36,1,2,4,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,121.35,NA,1
+id1578,City,23,September,38,12,1,0,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,68.53,NA,1
+id1580,City,19,September,38,12,1,0,1,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,99,NA,2
+id1582,City,23,September,38,11,2,0,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,89,NA,2
+id1586,City,346,September,38,13,0,2,2,0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,115,NA,1
+id1588,City,346,September,38,13,0,2,2,0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,115,NA,1
+id1589,City,2,September,38,15,0,1,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,114.73,NA,2
+id1590,City,61,September,38,11,2,3,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,149.4,NA,1
+id1608,City,57,September,39,21,0,2,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,101.52,NA,0
+id1609,City,1,September,39,22,0,1,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,107,0,0
+id1611,City,3,September,39,22,0,1,1,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,161.7,NA,1
+id1623,City,36,September,40,28,0,3,1,0,0,BB,Groups,TA/TO,0,0,0,A,A,2,No Deposit,0,Transient-Party,76,NA,0
+id1625,City,36,September,40,28,0,3,2,0,0,BB,Groups,TA/TO,0,0,0,A,C,1,No Deposit,0,Transient-Party,87,0,0
+id1626,City,236,September,40,27,0,4,1,0,0,SC,Online TA,TA/TO,0,0,0,A,A,1,No Deposit,0,Transient,81.16,NA,1
+id1633,City,2,October,41,4,0,2,2,NA,NA,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,134.75,NA,1
+id1634,City,185,October,41,5,0,2,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,122.4,NA,1
+id1639,City,218,October,41,7,1,2,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,1,No Deposit,0,Transient,106.1,NA,2
+id1641,City,85,October,41,6,1,3,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,85,NA,2
+id1642,City,32,October,41,4,2,5,3,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,171.13,NA,2
+id1647,City,181,October,42,11,0,2,1,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,120,0,0
+id1651,City,36,October,42,13,0,1,1,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,102.6,NA,2
+id1652,City,176,October,42,11,0,3,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,D,0,No Deposit,0,Transient,80.75,NA,0
+id1653,City,84,October,42,12,0,2,3,0,0,BB,Online TA,TA/TO,0,0,0,D,D,1,No Deposit,0,Transient,176.3,NA,0
+id1655,City,38,October,42,11,0,3,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,116.65,NA,1
+id1661,City,248,October,42,13,2,3,2,0,0,BB,Online TA,TA/TO,0,0,0,A,B,0,No Deposit,0,Transient,83.38,NA,2
+id1664,City,24,October,43,16,2,2,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,85,NA,1
+id1666,City,119,October,43,16,2,3,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,2,No Deposit,0,Transient,129.96,NA,2
+id1669,City,71,October,43,21,1,2,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,101.87,NA,1
+id1672,City,87,October,44,23,2,1,2,0,NA,HB,Offline TA/TO,TA/TO,0,0,0,A,C,0,No Deposit,0,Transient,106.25,0,1
+id1674,City,0,October,44,24,1,1,2,0,0,BB,Online TA,TA/TO,0,0,0,A,D,0,No Deposit,0,Transient,149,NA,1
+id1676,City,46,October,44,25,0,2,2,0,NA,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,119.5,NA,2
+id1679,City,100,October,44,24,1,3,2,1,0,HB,Online TA,TA/TO,0,0,0,F,F,0,No Deposit,0,Transient,221.18,NA,0
+id1684,City,32,October,44,25,0,5,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,85,NA,1
+id1686,City,32,October,44,25,1,5,2,0,NA,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,92.88,NA,0
+id1694,City,28,November,45,2,0,1,1,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,120,NA,0
+id1695,City,58,October,45,31,1,3,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,90.68,1,2
+id1698,City,8,November,45,3,0,3,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,116.67,NA,1
+id1700,City,8,November,45,5,0,1,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,130,NA,0
+id1705,City,82,November,45,4,2,3,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,122.76,NA,2
+id1717,City,4,November,47,14,1,0,1,0,0,BB,Groups,TA/TO,0,0,0,A,D,0,No Deposit,0,Transient,6,NA,2
+id1718,City,24,November,47,13,2,1,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,80,NA,0
+id1731,City,137,November,47,16,2,4,2,0,NA,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,65.45,NA,1
+id1732,City,43,November,47,19,2,2,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,68,0,0
+id1743,City,130,November,48,25,0,2,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,90,NA,2
+id1745,City,61,November,48,26,2,1,3,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,D,0,No Deposit,0,Transient,105,NA,0
+id1752,City,50,December,49,3,2,1,2,0,1,BB,Direct,Direct,0,0,0,A,A,1,No Deposit,0,Transient,88.2,NA,1
+id1756,City,66,December,50,5,1,4,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,68.07,NA,1
+id1789,City,269,December,53,29,2,3,1,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,70,NA,0
+id1790,City,304,December,53,29,2,3,1,0,0,BB,Complementary,TA/TO,0,0,0,A,A,0,No Deposit,35,Transient-Party,20,NA,0
+id1804,City,7,January,2,8,2,1,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,82.88,NA,0
+id1808,City,43,January,3,17,0,2,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,2,No Deposit,0,Transient,75.38,NA,2
+id1822,City,9,January,4,27,0,2,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,83.16,0,1
+id1834,City,11,February,5,2,2,3,2,0,NA,BB,Online TA,TA/TO,0,0,0,D,D,1,No Deposit,0,Transient,109.3,NA,1
+id1839,City,103,February,6,5,2,3,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,74.8,0,2
+id1841,City,36,February,6,9,0,2,2,1,0,BB,Direct,Direct,0,0,0,A,A,1,No Deposit,0,Transient,119,NA,1
+id1850,City,35,February,6,9,2,5,2,0,0,BB,Direct,Direct,0,0,0,A,A,0,No Deposit,0,Transient,71,NA,0
+id1857,City,1,February,8,20,1,1,1,0,0,SC,Online TA,GDS,0,0,0,A,A,0,No Deposit,0,Transient,78,0,0
+id1858,City,32,February,8,19,2,1,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,D,0,No Deposit,0,Transient,75,NA,0
+id1860,City,8,February,8,20,1,2,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,124,NA,1
+id1868,City,175,February,8,24,1,2,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,79.2,NA,3
+id1873,City,18,February,9,26,2,2,2,0,0,HB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,124.1,NA,0
+id1879,City,134,February,9,27,1,4,3,1,0,BB,Online TA,TA/TO,0,0,0,G,G,0,No Deposit,0,Transient,152.76,NA,1
+id1891,City,51,March,10,9,0,3,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,97.2,NA,1
+id1892,City,91,March,10,9,1,3,2,0,0,BB,Direct,Direct,0,0,0,A,A,0,No Deposit,0,Transient,79.2,0,0
+id1893,City,2,March,10,11,1,1,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,128,NA,0
+id1896,City,20,March,11,13,1,1,1,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,178,NA,0
+id1897,City,7,March,11,15,0,1,1,0,0,BB,Corporate,Corporate,0,0,0,D,F,0,No Deposit,0,Transient,95,NA,0
+id1903,City,5,March,12,22,0,2,2,0,0,BB,Direct,Direct,1,0,1,A,A,0,No Deposit,0,Transient,89.1,NA,0
+id1904,City,1,March,11,16,0,1,1,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,95.4,NA,1
+id1908,City,123,March,11,16,0,3,2,0,0,HB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,127.8,NA,2
+id1909,City,7,March,11,18,0,1,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,98,NA,0
+id1911,City,32,March,10,10,2,7,3,0,0,BB,Online TA,TA/TO,0,0,0,E,E,0,No Deposit,0,Transient,131.47,NA,0
+id1912,City,48,March,11,16,1,3,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,72,NA,0
+id1915,City,68,March,11,17,2,2,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,1,No Deposit,0,Transient,70.69,NA,1
+id1917,City,151,March,12,20,1,1,2,0,NA,BB,Groups,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,95,NA,0
+id1924,City,9,March,12,20,1,4,2,0,NA,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,87.04,0,0
+id1925,City,73,March,12,24,0,2,1,0,0,BB,Groups,TA/TO,0,0,0,A,A,1,No Deposit,0,Transient-Party,90,0,0
+id1935,City,64,March,13,30,1,3,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,D,0,No Deposit,0,Transient,75,NA,0
+id1937,City,99,March,13,31,1,2,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,110.4,NA,1
+id1944,City,198,April,14,6,0,3,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,2,No Deposit,0,Transient,117,NA,1
+id1947,City,248,April,15,9,2,0,2,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,80,NA,1
+id1951,City,50,April,15,13,0,1,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,108,NA,1
+id1952,City,4,April,15,11,0,3,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,122.67,NA,1
+id1953,City,79,April,15,11,0,3,1,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,85.47,NA,1
+id1954,City,82,April,15,11,0,4,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,D,0,No Deposit,0,Transient,85,NA,0
+id1959,City,25,April,16,17,1,0,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,91.2,NA,0
+id1963,City,45,April,16,16,2,2,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,126,NA,0
+id1967,City,87,April,16,17,1,3,3,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,D,0,No Deposit,0,Transient,115,NA,0
+id1968,City,62,April,16,18,0,3,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,135,NA,2
+id1972,City,14,April,16,19,0,3,2,0,0,BB,Online TA,TA/TO,0,0,0,A,D,1,No Deposit,0,Transient,135,NA,3
+id1997,City,48,April,17,26,0,3,3,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient-Party,171,NA,2
+id2002,City,6,May,18,2,0,1,1,0,0,BB,Corporate,Corporate,0,0,0,A,A,0,No Deposit,0,Transient,95,0,0
+id2022,City,185,May,19,11,0,1,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,156.6,NA,2
+id2026,City,6,May,19,12,0,2,1,NA,NA,BB,Online TA,TA/TO,0,0,0,F,F,0,No Deposit,0,Transient,205.2,NA,2
+id2027,City,128,May,19,13,0,1,3,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,144,NA,1
+id2037,City,84,May,20,14,2,4,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,118.5,0,0
+id2041,City,123,May,20,19,1,2,2,NA,0,BB,Direct,Direct,0,0,0,A,A,0,No Deposit,0,Transient,105,0,1
+id2048,City,186,May,20,20,2,1,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,139.5,NA,1
+id2054,City,0,July,27,3,1,1,1,0,0,BB,Direct,Direct,1,0,5,A,A,2,No Deposit,0,Transient,75,0,2
+id2059,City,157,May,21,26,0,2,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,126,NA,1
+id2068,City,140,May,21,25,2,3,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,139.5,0,1
+id2071,City,72,May,22,28,2,3,2,0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,121.1,NA,1
+id2078,City,237,June,23,6,0,2,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,107.1,NA,2
+id2084,City,30,June,23,8,0,3,2,0,0,BB,Direct,Direct,0,0,0,A,A,0,No Deposit,0,Transient,181.67,NA,3
+id2086,City,212,June,23,9,0,2,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,99,NA,1
+id2087,City,330,June,23,9,1,2,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,99,NA,2
+id2097,City,175,June,24,14,0,3,2,0,NA,HB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,171,0,1
+id2106,City,317,June,25,18,1,0,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,1,No Deposit,0,Transient,113.4,NA,2
+id2117,City,35,June,25,19,2,5,1,0,0,BB,Online TA,TA/TO,0,0,0,D,D,3,No Deposit,0,Transient,164.22,NA,1
+id2119,City,123,June,25,22,1,3,2,0,0,BB,Online TA,TA/TO,0,0,0,E,E,0,No Deposit,0,Transient,153,NA,0
+id2123,City,163,June,25,23,2,2,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient-Party,130.5,NA,2
+id2141,City,0,July,27,4,0,1,1,0,0,BB,Corporate,Corporate,0,0,0,A,E,0,No Deposit,0,Transient,130.5,NA,0
+id2144,City,24,July,27,2,2,3,2,3,0,HB,Direct,Direct,0,0,0,G,G,1,No Deposit,0,Transient,338,NA,0
+id2147,City,162,July,27,3,1,4,3,0,0,HB,Online TA,TA/TO,0,0,0,E,E,1,No Deposit,0,Transient,179.1,NA,2
+id2157,City,126,July,27,6,2,4,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,126,NA,0
+id2159,City,181,July,27,7,2,3,2,0,0,BB,Direct,Direct,0,0,0,A,A,2,No Deposit,0,Transient,86.63,NA,2
+id2160,City,36,July,28,11,0,2,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,120,NA,1
+id2165,City,451,July,28,12,0,3,2,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,112.67,NA,2
+id2168,City,5,July,28,14,0,1,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,150,NA,1
+id2171,City,27,July,28,14,0,2,1,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,140,NA,1
+id2178,City,4,July,29,17,1,0,1,0,0,BB,Direct,Direct,0,0,0,A,A,3,No Deposit,0,Transient,145,NA,0
+id2183,City,234,July,29,18,0,3,3,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,156.6,0,2
+id2184,City,216,July,28,15,2,4,2,1,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,125.1,0,2
+id2185,City,128,July,29,16,2,3,2,0,0,BB,Direct,Direct,0,0,0,A,A,0,No Deposit,0,Transient,108,NA,0
+id2207,City,280,August,31,3,1,3,2,0,0,BB,Direct,Direct,0,0,0,A,A,0,No Deposit,0,Transient,86.63,NA,1
+id2210,City,259,August,31,4,1,2,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,89.1,NA,1
+id2211,City,127,August,31,1,2,5,2,0,0,SC,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,71.1,0,0
+id2215,City,479,August,32,9,0,3,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,112.67,NA,1
+id2216,City,139,August,31,5,2,5,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,125,NA,2
+id2220,City,294,August,33,13,1,0,2,0,0,BB,Direct,Direct,0,0,0,F,F,3,No Deposit,0,Transient,201.25,0,1
+id2225,City,48,August,33,15,0,2,2,1,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,180,NA,3
+id2226,City,208,August,33,14,1,2,2,2,1,HB,Direct,Direct,0,0,0,E,E,1,No Deposit,0,Transient,240,NA,1
+id2229,City,167,August,33,16,0,3,2,1,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,133.65,NA,1
+id2234,City,135,August,33,15,2,5,3,0,NA,BB,Online TA,TA/TO,0,0,0,D,D,2,No Deposit,0,Transient,195,0,1
+id2238,City,2,August,34,24,0,1,1,0,0,BB,Direct,Direct,0,0,0,A,A,0,No Deposit,0,Transient,107.1,0,0
+id2241,City,457,August,34,25,0,2,2,0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,A,1,No Deposit,0,Transient-Party,122.4,0,1
+id2246,City,48,August,34,25,1,2,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,121.67,NA,1
+id2249,City,518,August,34,26,2,1,2,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,112.67,NA,1
+id2260,Resort,298,July,31,27,1,5,3,0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,183.45,NA,1
+id2268,Resort,42,August,35,28,1,2,2,2,0,BB,Online TA,TA/TO,0,0,0,G,G,1,No Deposit,0,Transient,195,NA,2
+id2280,Resort,51,October,44,26,1,2,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,D,D,1,No Deposit,0,Contract,48.6,NA,1
+id2288,Resort,99,January,3,12,2,10,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,41.4,NA,0
+id2289,Resort,34,January,4,21,0,3,2,0,NA,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,44.8,NA,1
+id2297,Resort,111,February,7,12,0,2,2,0,0,FB,Groups,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,70,NA,0
+id2311,Resort,31,March,11,12,1,1,1,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient-Party,25,0,0
+id2321,Resort,83,April,15,4,2,5,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,52.2,NA,3
+id2324,Resort,121,April,15,9,2,5,2,0,0,HB,Groups,Direct,0,0,0,D,D,0,Non Refund,0,Transient,72,NA,0
+id2333,Resort,143,April,18,24,2,2,2,0,0,FB,Groups,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,84,NA,0
+id2342,Resort,468,May,20,12,0,2,2,0,0,HB,Groups,TA/TO,0,0,0,A,A,1,No Deposit,0,Transient-Party,26,0,0
+id2344,Resort,9,May,21,15,1,0,2,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,70,NA,0
+id2347,Resort,143,May,21,17,2,5,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,1,No Deposit,0,Transient,52.2,NA,2
+id2358,Resort,81,June,25,18,2,1,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,116,NA,0
+id2363,Resort,123,June,27,26,2,4,2,2,0,HB,Online TA,TA/TO,0,0,0,G,G,2,No Deposit,0,Transient,220,NA,0
+id2364,Resort,105,June,27,26,2,5,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,155.57,NA,0
+id2367,Resort,149,July,29,10,1,0,2,2,NA,BB,Online TA,TA/TO,0,0,0,G,G,0,No Deposit,0,Transient,260,0,0
+id2369,Resort,66,July,29,15,2,4,2,2,NA,BB,Online TA,TA/TO,0,0,0,G,G,0,No Deposit,0,Transient,236.67,NA,0
+id2371,Resort,144,July,29,16,2,5,2,NA,0,BB,Offline TA/TO,TA/TO,0,0,0,E,E,0,No Deposit,0,Transient,119.7,NA,0
+id2375,Resort,221,July,31,25,3,8,2,0,0,BB,Online TA,TA/TO,0,0,0,E,E,0,No Deposit,0,Transient,157.5,NA,1
+id2385,Resort,113,August,33,8,1,4,2,1,0,HB,Online TA,TA/TO,0,0,0,A,A,1,No Deposit,0,Transient,246.5,NA,1
+id2390,Resort,137,August,34,17,0,3,3,1,0,BB,Online TA,TA/TO,0,0,0,H,H,0,No Deposit,0,Transient,281,NA,0
+id2391,Resort,78,August,34,17,1,4,2,0,0,HB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,231,NA,0
+id2395,Resort,227,August,34,20,2,5,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,126,NA,0
+id2408,Resort,19,October,41,2,2,1,2,0,0,BB,Online TA,TA/TO,0,0,0,E,E,0,No Deposit,0,Transient,129,NA,1
+id2409,Resort,383,October,41,6,1,3,2,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,48,NA,0
+id2419,Resort,206,October,44,27,2,5,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,16,No Deposit,0,Transient,46.88,NA,1
+id2420,Resort,20,October,45,30,2,2,2,0,0,BB,Online TA,TA/TO,0,0,0,E,E,0,No Deposit,0,Transient,64.1,NA,1
+id2422,Resort,0,November,46,7,1,0,1,0,0,BB,Direct,Direct,0,0,0,E,E,0,No Deposit,0,Transient-Party,85,NA,0
+id2423,Resort,135,November,46,10,2,3,2,0,NA,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,37.8,NA,0
+id2425,Resort,53,November,46,11,2,3,1,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,37.8,NA,1
+id2429,Resort,40,November,47,19,2,5,2,0,0,BB,Online TA,TA/TO,0,0,0,E,E,0,No Deposit,0,Transient,55.8,NA,1
+id2438,Resort,248,December,52,22,2,3,1,0,0,BB,Online TA,TA/TO,0,0,0,E,E,0,No Deposit,0,Transient,55.8,0,0
+id2440,Resort,126,December,53,26,2,5,1,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient-Party,51.22,NA,0
+id2442,Resort,40,January,3,16,1,2,1,0,0,Undefined,Groups,Direct,0,0,0,A,D,1,No Deposit,0,Transient-Party,55,0,0
+id2445,Resort,17,February,7,14,0,2,2,0,NA,HB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,80,0,0
+id2447,Resort,22,February,8,23,0,2,2,0,0,Undefined,Groups,TA/TO,0,0,0,A,D,0,No Deposit,0,Transient-Party,46,NA,0
+id2448,Resort,22,February,8,23,0,2,2,0,0,Undefined,Groups,TA/TO,0,0,0,A,D,0,No Deposit,0,Transient-Party,46,NA,0
+id2459,Resort,102,March,13,26,2,1,1,0,0,BB,Groups,Corporate,0,0,0,A,A,0,Non Refund,0,Transient,39.33,0,0
+id2470,Resort,32,April,14,6,2,3,3,1,0,BB,Online TA,TA/TO,0,0,0,H,H,0,No Deposit,0,Transient,165,NA,0
+id2478,Resort,92,April,16,17,1,0,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,60,NA,0
+id2480,Resort,224,April,17,27,0,3,2,0,0,BB,Online TA,TA/TO,0,0,0,E,E,0,No Deposit,0,Transient,90,NA,1
+id2494,Resort,51,May,22,28,2,1,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,96.21,NA,0
+id2502,Resort,37,June,23,10,2,2,2,2,0,HB,Online TA,TA/TO,0,0,0,C,C,0,No Deposit,0,Transient,228,NA,1
+id2503,Resort,306,June,23,10,4,10,2,0,0,BB,Online TA,TA/TO,0,0,0,E,E,0,No Deposit,0,Transient-Party,107.1,NA,0
+id2505,Resort,295,June,24,15,4,10,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Contract,56.7,NA,0
+id2515,Resort,47,June,26,25,4,6,2,0,0,BB,Corporate,Corporate,0,0,0,E,E,0,No Deposit,0,Transient,93,NA,0
+id2525,Resort,64,July,29,20,1,3,2,0,0,BB,Corporate,Corporate,0,0,0,D,D,0,No Deposit,0,Transient,135,NA,0
+id2541,Resort,327,August,35,27,2,5,2,0,0,HB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,167.18,NA,1
+id2545,Resort,259,September,38,17,0,3,1,0,0,BB,Groups,Corporate,0,1,0,A,A,0,Non Refund,0,Transient,33.3,NA,0
+id2548,Resort,136,July,30,20,2,5,2,2,0,BB,Online TA,TA/TO,0,1,0,G,G,0,No Deposit,0,Transient,237,0,0
+id2549,Resort,214,October,40,3,1,1,2,0,0,HB,Offline TA/TO,TA/TO,0,1,0,A,A,0,No Deposit,0,Transient,34,NA,0
+id2559,Resort,468,May,20,12,0,2,1,0,0,HB,Groups,TA/TO,0,1,0,A,A,0,No Deposit,0,Transient-Party,0,NA,0
+id2563,Resort,289,November,47,20,1,2,2,0,0,FB,Groups,TA/TO,0,1,0,A,A,0,No Deposit,0,Transient-Party,69,0,0
+id2568,Resort,79,February,8,18,2,3,2,2,0,BB,Online TA,TA/TO,0,1,0,G,G,0,No Deposit,0,Transient,98,NA,0
+id2573,City,103,July,29,18,2,1,2,0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,94.5,0,0
+id2574,City,12,July,29,18,2,2,2,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,62,NA,0
+id2575,City,69,July,30,22,2,5,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,76.5,NA,1
+id2576,City,110,July,30,25,2,1,2,0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,94.5,NA,0
+id2583,City,3,August,34,22,1,1,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Contract,98,NA,2
+id2586,City,55,August,35,26,0,2,2,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,62,NA,0
+id2590,City,104,August,36,30,2,1,2,0,0,HB,Groups,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,90,NA,0
+id2595,City,168,September,37,11,0,2,2,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,60,NA,0
+id2598,City,74,September,38,18,0,2,2,0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient-Party,101.5,0,0
+id2599,City,74,September,38,18,0,2,2,0,NA,HB,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient-Party,101.5,NA,0
+id2604,City,15,September,39,20,2,2,2,2,0,BB,Online TA,TA/TO,0,0,0,F,F,0,No Deposit,0,Transient,174,NA,2
+id2606,City,87,September,39,25,2,3,2,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,170,NA,0
+id2610,City,27,September,40,30,0,2,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,21,Transient,108,NA,0
+id2619,City,100,October,42,16,0,1,2,0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,108,0,0
+id2640,City,10,January,3,15,8,22,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,72.97,NA,1
+id2642,City,8,January,3,16,2,5,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,78.3,NA,0
+id2661,City,70,March,12,13,2,1,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,87.3,NA,0
+id2662,City,75,March,12,17,1,3,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,80,NA,0
+id2667,City,22,March,13,21,1,1,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,129,NA,0
+id2682,City,91,April,15,4,1,2,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,80,NA,0
+id2686,City,274,April,15,7,0,1,1,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,6,NA,0
+id2689,City,69,April,16,14,2,5,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,110.99,NA,1
+id2693,City,29,April,17,19,0,4,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,120.35,NA,0
+id2694,City,265,April,17,20,0,4,2,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,101,NA,0
+id2697,City,168,April,17,22,1,2,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,77,Transient,85,NA,0
+id2698,City,168,April,17,22,1,2,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,77,Transient,85,NA,0
+id2700,City,10,April,17,23,1,1,2,0,NA,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,146,NA,1
+id2702,City,88,April,18,27,0,4,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,105.4,NA,3
+id2705,City,295,April,18,28,0,2,2,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,62,0,0
+id2706,City,295,April,18,28,0,2,2,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,62,0,0
+id2719,City,103,May,19,5,1,3,2,0,NA,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,124.53,NA,0
+id2726,City,309,May,20,13,1,2,2,0,0,HB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,215,Transient-Party,101,NA,0
+id2731,City,286,May,21,17,0,1,2,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,Non Refund,75,Transient,65,NA,0
+id2732,City,286,May,21,17,0,1,2,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,Non Refund,75,Transient,65,NA,0
+id2734,City,316,May,21,19,0,2,2,0,NA,BB,Groups,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,62,NA,0
+id2739,City,29,May,21,20,2,3,2,0,NA,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,132.72,NA,1
+id2748,City,158,May,22,24,0,2,1,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,Non Refund,31,Transient,130,NA,0
+id2750,City,323,May,22,26,0,2,2,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,62,NA,0
+id2752,City,136,May,22,26,0,3,2,2,0,BB,Online TA,TA/TO,0,0,0,F,F,0,No Deposit,0,Transient,198.9,NA,0
+id2770,City,337,June,24,9,0,2,2,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,62,NA,0
+id2778,City,12,June,25,12,2,2,2,NA,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,136,NA,0
+id2785,City,188,June,25,15,0,2,1,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,39,Transient,130,NA,0
+id2793,City,245,June,25,17,0,2,2,0,NA,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,75,NA,0
+id2795,City,245,June,25,17,0,2,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,75,0,0
+id2796,City,245,June,25,17,0,2,2,0,NA,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,75,NA,0
+id2797,City,350,June,25,17,0,2,1,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,130,NA,0
+id2800,City,57,June,26,20,1,3,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,94.5,NA,0
+id2803,City,60,June,27,26,2,2,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,108.9,0,1
+id2804,City,151,June,27,27,1,0,2,0,0,BB,Offline TA/TO,Corporate,0,0,0,E,E,0,Non Refund,0,Transient,200,0,0
+id2816,City,210,July,29,15,2,2,2,0,0,HB,Groups,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,96,NA,0
+id2817,City,125,July,30,20,0,2,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,B,B,0,No Deposit,0,Transient-Party,72.25,NA,0
+id2822,City,61,July,30,23,1,1,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,105.3,NA,0
+id2835,City,91,August,32,3,0,1,2,1,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,135.9,NA,0
+id2839,City,398,August,33,11,0,2,2,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,62,NA,0
+id2842,City,280,August,33,12,0,1,2,0,0,BB,Online TA,TA/TO,0,0,0,B,B,0,No Deposit,0,Transient,94.95,0,1
+id2845,City,158,August,33,13,1,1,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,114.3,NA,0
+id2846,City,12,August,34,14,2,2,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,131.5,NA,3
+id2847,City,72,August,34,16,0,3,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,135.9,NA,0
+id2848,City,55,August,34,16,0,3,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,2,No Deposit,0,Transient,149.4,NA,0
+id2856,City,13,August,35,23,0,2,1,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,129,NA,2
+id2858,City,134,August,35,25,0,3,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,109.8,NA,0
+id2871,City,78,September,36,1,0,3,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,122.1,NA,0
+id2874,City,64,September,37,4,2,5,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,131.14,NA,0
+id2879,City,426,September,37,8,0,2,2,0,NA,BB,Groups,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,62,NA,0
+id2884,City,96,September,38,13,0,3,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,E,E,0,No Deposit,0,Transient,129.88,NA,0
+id2888,City,68,September,38,16,0,1,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,125.1,0,0
+id2889,City,205,September,38,16,1,2,2,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,120,NA,0
+id2901,City,250,September,40,26,1,3,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,95,NA,0
+id2904,City,130,September,40,29,0,3,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,139.5,0,2
+id2905,City,134,September,40,29,1,3,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,137.7,NA,2
+id2911,City,268,October,40,1,1,1,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,95.4,0,0
+id2912,City,261,October,40,1,1,1,2,0,0,HB,Groups,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,96,NA,0
+id2920,City,207,October,41,4,0,1,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,98.1,NA,0
+id2923,City,38,October,41,6,0,3,2,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,109,NA,0
+id2931,City,76,October,42,10,1,0,1,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,120,NA,0
+id2933,City,269,October,42,10,1,4,2,0,NA,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,102.51,NA,0
+id2935,City,67,October,42,11,0,2,2,0,0,BB,Direct,Direct,0,0,0,A,A,0,No Deposit,0,Transient-Party,99.71,0,0
+id2938,City,279,October,42,12,0,3,2,0,NA,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,110,NA,0
+id2939,City,314,October,42,12,0,3,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,68,Transient,75,NA,0
+id2944,City,44,October,42,14,2,2,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,148.28,NA,2
+id2945,City,115,October,42,15,2,4,3,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,151.2,NA,0
+id2950,City,101,October,43,21,0,1,2,0,0,HB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,153,NA,2
+id2955,City,202,October,43,22,2,1,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,109.8,NA,0
+id2973,City,166,November,45,1,0,3,1,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,110,0,0
+id2979,City,76,November,45,3,0,3,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,93.6,NA,1
+id2982,City,304,November,45,3,0,3,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,89,0,0
+id2983,City,305,November,45,4,1,2,2,0,NA,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,89,NA,0
+id2986,City,11,November,45,5,0,1,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,130,NA,1
+id2993,City,626,November,46,7,1,2,2,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,62.8,NA,0
+id2997,City,300,November,46,11,0,2,2,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,65,0,0
+id3002,City,63,November,47,18,0,1,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,102.6,NA,0
+id3004,City,160,November,48,20,2,3,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,85,NA,1
+id3012,City,48,December,49,3,2,1,2,0,0,HB,Direct,Direct,0,0,0,A,A,1,No Deposit,0,Transient,115.2,0,0
+id3013,City,104,December,50,4,2,0,2,1,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,109.8,NA,1
+id3014,City,59,December,50,4,2,2,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,96.9,NA,1
+id3017,City,65,December,50,7,0,4,3,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,119,NA,1
+id3021,City,26,December,51,12,2,5,2,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,75,NA,0
+id3026,City,102,December,53,26,1,3,0,2,0,BB,Online TA,TA/TO,0,0,0,B,B,0,No Deposit,0,Transient-Party,101.34,NA,0
+id3028,City,134,December,53,26,1,5,2,2,0,BB,Online TA,TA/TO,0,0,0,F,F,0,No Deposit,0,Transient,163.34,0,2
+id3029,City,9,December,53,28,0,4,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,95.2,NA,1
+id3031,City,16,December,53,28,2,4,2,0,NA,BB,Groups,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,76.67,NA,0
+id3037,City,11,January,1,2,1,2,1,0,0,HB,Online TA,TA/TO,0,0,0,A,A,1,No Deposit,0,Transient,154.67,NA,0
+id3038,City,71,January,1,2,1,2,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,102.6,NA,2
+id3040,City,5,January,1,2,1,2,1,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,60,NA,0
+id3053,City,46,January,3,15,4,8,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,96.91,NA,0
+id3055,City,73,January,3,18,0,4,2,0,0,HB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,88.29,NA,0
+id3057,City,279,January,3,20,2,2,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,77.35,NA,1
+id3058,City,52,January,3,21,2,3,2,1,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,78.15,NA,0
+id3059,City,53,January,4,22,2,0,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,4,No Deposit,0,Transient,93.6,NA,2
+id3068,City,5,January,4,28,0,1,2,0,NA,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,108,0,0
+id3071,City,56,February,5,1,0,3,2,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,60,0,0
+id3075,City,58,February,5,4,2,2,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,90.1,NA,0
+id3076,City,36,February,6,8,2,4,1,0,0,SC,Online TA,TA/TO,0,0,0,A,A,1,No Deposit,0,Transient,74.8,NA,0
+id3078,City,67,February,7,12,2,0,2,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,80,NA,0
+id3085,City,11,February,7,18,0,1,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,98,NA,0
+id3087,City,90,February,8,20,1,2,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,71.28,NA,0
+id3094,City,17,February,9,26,2,1,1,0,0,BB,Groups,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient-Party,75,NA,0
+id3099,City,601,March,9,2,0,2,2,NA,NA,BB,Groups,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,62,NA,0
+id3100,City,212,March,9,2,0,2,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,90,NA,0
+id3106,City,34,March,10,7,2,9,1,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,96.05,NA,0
+id3114,City,53,March,11,14,0,3,1,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,65,NA,0
+id3115,City,92,March,11,15,0,3,2,0,0,BB,Groups,Direct,0,0,0,A,A,0,Non Refund,0,Transient,85,NA,0
+id3119,City,25,March,11,16,0,3,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,128,NA,0
+id3129,City,629,March,13,30,0,2,2,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,62,NA,0
+id3147,City,83,April,15,10,1,3,3,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,164.25,NA,0
+id3150,City,57,April,15,14,0,2,3,NA,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,180,NA,0
+id3151,City,61,April,15,14,1,2,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,141,NA,0
+id3154,City,87,April,15,15,2,2,2,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,95,NA,0
+id3157,City,88,April,16,16,2,0,2,1,0,BB,Online TA,TA/TO,0,0,0,F,F,0,No Deposit,0,Transient,207,NA,0
+id3159,City,245,April,16,16,2,3,2,0,NA,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,109.8,NA,0
+id3167,City,135,April,16,21,1,2,2,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,90,NA,0
+id3178,City,88,April,17,26,0,3,2,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,140,NA,0
+id3183,City,111,April,17,27,1,3,2,NA,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,120,NA,0
+id3186,City,159,April,17,28,1,2,2,0,NA,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,130.5,NA,0
+id3188,City,3,April,17,29,0,1,1,0,NA,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,190,0,1
+id3190,City,123,May,18,1,1,4,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,139.5,NA,1
+id3194,City,15,May,18,3,0,2,1,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,130,0,1
+id3196,City,106,May,18,3,0,3,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,2,No Deposit,0,Transient,126,0,0
+id3200,City,143,May,18,4,0,3,2,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,100,NA,0
+id3203,City,189,May,18,5,1,2,2,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient-Party,100,NA,0
+id3210,City,410,May,19,9,0,1,2,0,NA,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,90,0,0
+id3212,City,105,May,19,13,1,1,2,0,NA,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,135,NA,0
+id3213,City,151,May,19,13,2,2,2,0,NA,BB,Groups,Direct,0,0,0,A,A,0,Non Refund,0,Transient,95,NA,0
+id3218,City,164,May,20,15,1,2,1,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,160,NA,0
+id3219,City,164,May,20,15,1,2,1,0,NA,BB,Groups,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,160,NA,0
+id3223,City,104,May,20,15,1,2,1,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,160,NA,0
+id3226,City,188,May,20,15,1,5,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,130.8,0,1
+id3232,City,317,May,20,19,0,1,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,123.3,0,2
+id3240,City,130,May,21,24,0,4,2,2,0,BB,Online TA,TA/TO,0,0,0,F,F,0,No Deposit,0,Transient,198,NA,1
+id3241,City,296,May,21,24,0,4,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,109.8,NA,0
+id3249,City,151,May,21,27,1,1,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,114,NA,1
+id3254,City,186,May,22,30,0,2,2,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,130,NA,0
+id3259,City,144,June,22,1,0,3,2,0,0,BB,Direct,Direct,0,0,0,A,A,0,No Deposit,0,Transient,120,NA,2
+id3261,City,18,June,22,2,1,2,1,0,0,BB,Online TA,TA/TO,0,0,0,E,E,0,No Deposit,0,Transient,200,NA,0
+id3265,City,173,June,23,4,2,2,2,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,120,NA,0
+id3266,City,40,June,23,7,0,2,1,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,95,NA,0
+id3270,City,178,June,23,9,0,2,2,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,130,NA,0
+id3279,City,226,June,24,16,1,2,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,105,NA,0
+id3286,City,210,June,25,19,1,3,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,130,0,0
+id3299,City,25,June,26,27,0,1,2,0,0,BB,Corporate,Corporate,0,0,0,A,A,0,No Deposit,0,Transient-Party,100,NA,0
+id3301,City,49,June,26,28,0,2,1,0,NA,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,83.6,NA,1
+id3302,City,368,June,26,28,0,3,2,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,90,0,0
+id3308,City,138,June,26,30,2,3,2,0,0,BB,Online TA,TA/TO,0,0,0,D,D,0,No Deposit,0,Transient,118.08,NA,0
+id3312,City,298,July,27,3,3,5,1,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,119,NA,1
+id3318,City,178,July,27,7,0,2,2,0,0,HB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,143.1,NA,0
+id3324,City,450,July,28,11,0,1,2,0,0,BB,Groups,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,90,NA,0
+id3329,City,58,July,29,16,2,2,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,89,NA,0
+id3330,City,181,July,29,16,2,2,2,0,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,107.1,NA,1
+id3331,City,24,July,29,20,0,2,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,124,NA,1
+id3345,City,320,August,31,3,0,2,2,0,0,SC,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,89.1,NA,1
+id3360,City,229,August,33,14,3,7,2,1,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,140.76,NA,1
+id3362,City,507,August,33,15,0,1,2,0,0,BB,Offline TA/TO,TA/TO,0,0,0,A,A,0,Non Refund,0,Transient,90,NA,0
+id3369,City,186,August,33,18,2,4,2,NA,0,HB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,151.8,NA,0
+id3372,City,317,August,34,23,0,3,2,1,0,BB,Online TA,TA/TO,0,0,0,A,A,0,No Deposit,0,Transient,149.1,NA,0
+id3384,City,272,July,29,16,0,2,2,0,0,BB,Groups,TA/TO,1,1,0,A,A,0,No Deposit,0,Transient-Party,62.8,NA,0
+id3389,City,321,September,36,3,0,2,2,0,0,BB,Groups,TA/TO,1,1,0,A,A,0,No Deposit,0,Transient-Party,62.8,NA,0
+id3396,City,356,October,41,8,0,2,2,0,0,BB,Groups,TA/TO,0,1,0,A,A,0,Non Refund,0,Contract,62,NA,0
+id3407,City,339,September,39,21,1,1,2,0,0,BB,Groups,TA/TO,0,1,0,A,A,0,Non Refund,0,Contract,62,NA,0
+id3408,City,353,October,41,5,1,1,2,0,0,BB,Groups,TA/TO,0,1,0,A,A,0,Non Refund,0,Contract,62,0,0
+id3409,City,359,October,42,11,2,0,2,0,0,BB,Groups,TA/TO,0,1,0,A,A,0,Non Refund,0,Transient,60,NA,0
+id3419,City,278,July,30,22,0,2,2,0,0,BB,Groups,TA/TO,0,1,0,A,A,0,Non Refund,0,Transient-Party,62,NA,0
+id3423,City,299,August,33,12,0,2,2,0,0,BB,Groups,TA/TO,0,1,0,A,A,0,Non Refund,0,Transient-Party,62,0,0
+id3427,City,341,September,39,23,0,2,2,0,0,BB,Groups,TA/TO,0,1,0,A,A,0,Non Refund,0,Transient-Party,62,NA,0
+id3430,City,192,July,29,12,2,1,2,0,0,BB,Online TA,TA/TO,0,1,0,A,A,0,No Deposit,0,Transient,76.5,NA,0
+id3436,City,323,September,36,5,2,2,2,0,0,BB,Groups,TA/TO,0,1,0,A,A,0,No Deposit,0,Transient-Party,62,NA,0
+id3439,City,337,September,38,19,2,2,2,0,0,BB,Groups,TA/TO,0,1,0,A,A,0,No Deposit,0,Transient-Party,62,NA,0
+id3440,City,301,August,33,14,0,2,2,0,0,HB,Offline TA/TO,TA/TO,0,1,0,A,A,0,Non Refund,0,Transient-Party,101.5,NA,0
+id3447,City,364,October,42,16,0,2,2,0,0,HB,Offline TA/TO,TA/TO,0,1,0,A,A,0,Non Refund,0,Transient-Party,101.5,NA,0
+id3450,City,135,July,29,16,0,3,1,0,0,BB,Online TA,TA/TO,0,1,0,A,A,0,No Deposit,0,Transient-Party,68,NA,2
+id3451,City,151,July,30,25,2,1,2,0,0,HB,Groups,TA/TO,0,1,0,A,A,0,Non Refund,0,Transient-Party,86,NA,0
+id3466,City,239,October,42,17,0,1,2,0,0,BB,Groups,TA/TO,0,1,0,A,A,0,Non Refund,0,Transient,60,NA,0
+id3469,City,342,September,39,24,2,4,2,0,0,BB,Groups,TA/TO,0,1,0,A,A,0,Non Refund,0,Transient,170,NA,0
+id3472,City,342,September,39,24,2,4,2,0,0,BB,Groups,TA/TO,0,1,0,A,A,0,Non Refund,0,Transient,170,0,0
+id3474,City,18,October,40,3,2,5,1,0,0,SC,Online TA,TA/TO,1,1,0,A,A,0,No Deposit,0,Transient,78.17,NA,0
+id3476,City,19,October,41,6,0,3,2,0,NA,BB,Offline TA/TO,TA/TO,1,1,0,A,A,0,Non Refund,0,Transient,90,NA,0
+id3486,City,13,October,43,19,1,1,2,0,NA,BB,Online TA,TA/TO,0,1,0,A,A,0,No Deposit,0,Contract,126,NA,3
+id3497,City,72,December,53,27,2,0,2,0,0,HB,Groups,TA/TO,0,1,0,A,A,0,Non Refund,0,Transient,90,0,0
+id3499,City,265,August,32,3,2,5,2,0,0,BB,Offline TA/TO,TA/TO,0,1,0,A,A,0,No Deposit,0,Contract,72.08,NA,1
+id3500,City,9,November,47,20,0,2,2,0,NA,BB,Online TA,TA/TO,0,1,0,D,D,0,No Deposit,0,Transient,77.93,NA,1
+id3516,City,218,June,24,9,0,2,2,0,0,HB,Groups,TA/TO,0,1,0,A,A,0,Non Refund,0,Transient,135,NA,0
+id3517,City,192,May,20,12,0,3,2,0,0,HB,Offline TA/TO,TA/TO,0,1,0,A,A,0,Non Refund,42,Transient,135,NA,0
+id3518,City,113,February,9,25,0,3,2,NA,0,BB,Offline TA/TO,TA/TO,0,1,0,A,A,0,Non Refund,44,Transient,75,NA,0
+id3530,City,99,February,8,19,0,1,2,0,0,BB,Corporate,Corporate,0,1,0,A,A,0,No Deposit,0,Transient-Party,80,NA,0
